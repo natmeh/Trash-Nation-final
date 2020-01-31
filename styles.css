@@ -1,0 +1,44 @@
+.header {
+    display: inline;
+    font-family: 'Bowlby One SC', cursive;
+    font-size:25px;
+}
+
+.header3 {
+    justify-content: center;
+    display: flex;
+    font-family: 'Bowlby One SC', cursive;
+    font-size:25px;
+    color:blue;
+}
+
+.facts1 {
+    font-size: 20px;
+}
+
+body {
+    border: turquoise outset 10px;
+    padding:5px;
+}
+ 
+.Logo {
+    height:150px;
+    width:150px;
+}
+
+.Ocean {
+    height: 200px;
+}
+
+.flex{
+    display: flex;
+    justify-content: center;
+}
+
+button{
+    height: 25px;
+}
+
+h2{
+    text-align: center;
+}
